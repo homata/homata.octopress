@@ -2,15 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[homata Blog]]></title>
-  <link href="http://homata.github.io/atom.xml" rel="self"/>
-  <link href="http://homata.github.io/"/>
-  <updated>2014-08-31T20:57:34+09:00</updated>
-  <id>http://homata.github.io/</id>
+  <link href="http://homata.com/atom.xml" rel="self"/>
+  <link href="http://homata.com/"/>
+  <updated>2014-08-31T21:15:18+09:00</updated>
+  <id>http://homata.com/</id>
   <author>
     <name><![CDATA[Hiroshi Omata]]></name>
     <email><![CDATA[op.homata@gmail.com]]></email>
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[波江のフェロー]]></title>
+    <link href="http://homata.com/blog/2014/08/31/namie-fellow/"/>
+    <updated>2014-08-31T21:13:31+09:00</updated>
+    <id>http://homata.com/blog/2014/08/31/namie-fellow</id>
+    <content type="html"><![CDATA[<p>あいうえお</p>
+]]></content>
+  </entry>
   
 </feed>
