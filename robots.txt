@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://homata.github.io/sitemap.xml 
