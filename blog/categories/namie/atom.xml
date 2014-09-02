@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Namie | homata Blog]]></title>
+  <link href="http://homata.com/blog/categories/namie/atom.xml" rel="self"/>
+  <link href="http://homata.com/"/>
+  <updated>2014-08-31T21:21:59+09:00</updated>
+  <id>http://homata.com/</id>
+  <author>
+    <name><![CDATA[Hiroshi Omata]]></name>
+    <email><![CDATA[op.homata@gmail.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[波江のフェロー]]></title>
+    <link href="http://homata.com/blog/2014/08/31/namie-fellow/"/>
+    <updated>2014-08-31T21:13:31+09:00</updated>
+    <id>http://homata.com/blog/2014/08/31/namie-fellow</id>
+    <content type="html"><![CDATA[<p>あいうえお</p>
+]]></content>
+  </entry>
+  
+</feed>

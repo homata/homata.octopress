@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://homata.com/sitemap.xml 
