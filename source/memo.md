@@ -300,3 +300,9 @@ GitHubにgithubにhomata.octopressというリポジトリを作成する
 記事を投稿する
 $ rake new_post["namie fellow"]
 $ rake gen_deploy
+
+staticサイトの生成
+$ rake generate
+ローカルでのpreview
+$ rake preview 
+
