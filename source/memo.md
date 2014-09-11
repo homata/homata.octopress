@@ -306,3 +306,6 @@ $ rake generate
 ローカルでのpreview
 $ rake preview 
 
+GitHubにデプロイ(コミット)
+$ rake deploy
+
